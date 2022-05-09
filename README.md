@@ -1,4 +1,4 @@
-**作品访问链接：**https://grapheco.org/InteractiveGraph/dist/examples/example1.html
+**作品访问链接**：https://grapheco.org/InteractiveGraph/dist/examples/example1.html
 
 **快速部署：**
 
